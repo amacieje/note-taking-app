@@ -57,5 +57,4 @@ yargs.command({
     }
 });
 
-yargs.parse(); //indispensable pour faire fonctionner yargs, dont argv
-//console.log(chalk.hex('#00FF00').bgBlueBright.bold('MiMewlMaow'));
+yargs.parse();
